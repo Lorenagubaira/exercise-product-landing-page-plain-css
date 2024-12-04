@@ -1,4 +1,6 @@
+<!-- hide -->
 # Build a Product Landing Page with Plain HTML/CSS
+<!-- endhide -->
 
 ![Product Landing Page Exercise for HTML/CSS](https://github.com/breatheco-de/exercise-product-landing-page-plain-css/blob/master/.learn/assets/preview.png?raw=true)
 
@@ -14,6 +16,8 @@ There are also some CSS frameworks like Bootstrap [that is broadly used in ~30% 
 2. Use the images on the `./assets` folder.
 3. Use the flex-box CSS rules, here is a great document explaining about it: https://css-tricks.com/snippets/css/a-guide-to-flexbox/
 
+<onlyfor saas="false" withBanner="false">
+  
 ## 🌱  How to start this project
 
 This project comes with the necessary files to start working, but you have two options to start:
@@ -33,6 +37,8 @@ npx --yes http-server -c-1
 💡 Important: Remember to create a new repository, update the remote (`git remote set-url origin <your new url>`), and upload the code to your new repository using `add`, `commit` and `push`.
 
 Note: you will have to refresh your browser every time you update your code.
+
+</onlyfor>
 
 ## 🥵 No one tells you this:
 
