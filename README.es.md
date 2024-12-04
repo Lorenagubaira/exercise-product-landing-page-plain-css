@@ -1,4 +1,6 @@
+<!-- hide -->
 # Construye la Página de inicio de un producto con HTML/CSS
+<!-- endhide -->
 
 ![Product Landing Page Exercise for HTML/CSS](https://github.com/breatheco-de/exercise-product-landing-page-plain-css/blob/master/.learn/assets/preview.png?raw=true)
 
@@ -14,6 +16,8 @@ Hay algunos frameworks de css como Bootstrap [que se utiliza ampliamente en ~ 30
 2. Usa la imágenes de la carpeta `./assets`.
 3. Usa las reglas de CSS flex-box, aquí hay un muy buen documento que explica todo al respecto: https://css-tricks.com/snippets/css/a-guide-to-flexbox/
 
+<onlyfor saas="false" withBanner="false">
+  
 ## 🌱  Cómo iniciar este proyecto
 
 Este proyecto viene con los archivos necesarios para empezar a trabajar, pero tienes dos opciones para empezar:
@@ -29,8 +33,9 @@ $ git clone https://github.com/breatheco-de/exercise-product-landing-page-plain-
 ```sh
 npx --yes http-server -c-1
 ```
+</onlyfor>
 
-💡 Importante: 
+### 💡 Importante: 
 
 + Recuerda actualizar el `remote` del proyecto con el de tu repositorio usando `git remote set-url origin <your new url>`, y luego guardar tu código en tu nuevo repositorio usando `add`, `commit` y `push`.
 
