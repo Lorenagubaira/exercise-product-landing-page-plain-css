@@ -22,9 +22,10 @@ Hay algunos frameworks de css como Bootstrap [que se utiliza ampliamente en ~ 30
 
 Este proyecto viene con los archivos necesarios para empezar a trabajar, pero tienes dos opciones para empezar:
 
-a) Abrir este link con Gitpod en tu navegador(recomendada): https://gitpod.io#https://github.com/breatheco-de/exercise-product-landing-page-plain-css
+a) Abrir este enlace con [Codespaces](https://4geeks.com/lesson/what-is-github-codespaces) (recomendado) o [Gitpod](https://4geeks.com/lesson/how-to-use-gitpod) en tu navegador: https://s.4geeks.com/start?repo=breatheco-de/exercise-product-landing-page-plain-css
 
 b) Clonar este repositorio localmente en tu computador:
+
 ```sh
 $ git clone https://github.com/breatheco-de/exercise-product-landing-page-plain-css.git
 ```
