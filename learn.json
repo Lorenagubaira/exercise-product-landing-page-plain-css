@@ -6,6 +6,7 @@
     "status": "published",
     "boilerplate": "https://github.com/breatheco-de/exercise-product-landing-page-plain-css",
 	"duration" : 4,
+	"template_url": "self",
 	"difficulty": "easy",
 	"solution": "https://github.com/breatheco-de/exercise-product-landing-page-plain-css/tree/solution",
 	"technologies": ["html", "css", "flex-box", "layouts", "css-grid"],
