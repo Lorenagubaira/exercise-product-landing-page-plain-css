@@ -16,7 +16,7 @@ Hay algunos frameworks de css como Bootstrap [que se utiliza ampliamente en ~ 30
 2. Usa la imágenes de la carpeta `./assets`.
 3. Usa las reglas de CSS flex-box, aquí hay un muy buen documento que explica todo al respecto: https://css-tricks.com/snippets/css/a-guide-to-flexbox/
 
-<onlyfor saas="false" withBanner="false">
+<how-to-start>
   
 ## 🌱  Cómo iniciar este proyecto
 
@@ -34,7 +34,7 @@ $ git clone https://github.com/breatheco-de/exercise-product-landing-page-plain-
 ```sh
 npx --yes http-server -c-1
 ```
-</onlyfor>
+</how-to-start>
 
 ### 💡 Importante: 
 
