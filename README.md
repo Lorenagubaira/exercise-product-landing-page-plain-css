@@ -16,7 +16,7 @@ There are also some CSS frameworks like Bootstrap [that is broadly used in ~30% 
 2. Use the images on the `./assets` folder.
 3. Use the flex-box CSS rules, here is a great document explaining about it: https://css-tricks.com/snippets/css/a-guide-to-flexbox/
 
-<onlyfor saas="false" withBanner="false">
+<how-to-start>
   
 ## 🌱  How to start this project
 
@@ -38,7 +38,7 @@ npx --yes http-server -c-1
 
 Note: you will have to refresh your browser every time you update your code.
 
-</onlyfor>
+</how-to-start>
 
 ## 🥵 No one tells you this:
 
